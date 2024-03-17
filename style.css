@@ -1,0 +1,51 @@
+body{
+    /*body proprties*/
+    background-color:rebeccapurple;
+    color: white;
+}
+ol{
+    color:aqua;
+}
+#para{
+    width: 80px;
+    height: 120px;
+    display: none;
+    background-color: red;
+}
+.accent,
+h6{
+    background-color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+section p{
+    font-style: italic;
+}
+h1{
+    margin: 0;
+    padding: 0;
+    color: aquamarine;
+    font-size: 50px;
+    font-weight: lighter;
+    text-align: center;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration:underline;
+}
+a{
+    text-decoration: none;
+    color:aquamarine;
+}
+section{
+    border-width: 2px;
+    border-style: solid;
+    border-color: blue;
+    margin: 30px;
+    padding: 50px;
+}
+ul li{
+    display: inline;
+}
+input{
+    display: block;
+}
